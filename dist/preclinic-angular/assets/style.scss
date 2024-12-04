@@ -8323,6 +8323,15 @@ a.status-grey {
     border-radius: 10px;
     padding: 9px 15px;
   }
+  .btn-warning {
+    min-width: 127px;
+    font-size: 16px;
+    font-weight: 500;
+    color: $color_16;
+    border-radius: 10px;
+    padding: 9px 15px;
+    background-color: $color_11 !important;
+  }
   .follow-btns {
     background: #2e37a4;
     border: 1px solid #2e37a4;
@@ -11161,8 +11170,8 @@ td.add-remove {
     justify-content: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
-    background-color: $background-color_11;
-    color: $color_16;
+    background-color: $background-color_13;
+    color: $color_32;
     position: relative;
     font-size: 16px;
     margin-left: 6px;
@@ -12252,10 +12261,10 @@ form {
     &:before {
       display: none;
     }
-    padding: 20px;
+    padding: 5px;
   }
   .morning-user {
-    padding: 0;
+    padding: 10px 15px 1px 10px !important;
     h2 {
       font-size: 20px;
     }
