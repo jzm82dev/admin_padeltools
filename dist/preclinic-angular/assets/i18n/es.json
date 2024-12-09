@@ -141,6 +141,7 @@
         "type_one_time": "Puntual",
         "type_recurrent": "Fija semanal",
         "type_lessons": "Clases",
+        "no_courts_created": "Para poder ver y hacer reservas hay que crear previamente las pistas",
         "recurrent": {
             "recurrent_booking": "Reserva fija",
             "list": "Listado",
