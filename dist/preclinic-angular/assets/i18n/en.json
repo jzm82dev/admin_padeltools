@@ -141,6 +141,7 @@
         "type_one_time": "On-time",
         "type_recurrent": "Weekly fixed booking",
         "type_lessons": "Lessons",
+        "no_courts_created": "In order to view and make bookings, you must first create the courts.",
         "recurrent": {
             "recurrent_booking": "Recurring reserve",
             "list": "List",
