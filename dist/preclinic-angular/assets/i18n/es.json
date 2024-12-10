@@ -141,7 +141,7 @@
         "type_one_time": "Puntual",
         "type_recurrent": "Fija semanal",
         "type_lessons": "Clases",
-        "no_courts_created": "Para poder ver y hacer reservas hay que crear previamente las pistas",
+        "no_courts_created": "No hay pistas actualmente creadas.",
         "recurrent": {
             "recurrent_booking": "Reserva fija",
             "list": "Listado",
@@ -229,6 +229,7 @@
         "date_end_lesson": "Fin clases",
         "change_court_lesson": "Para los siguientes días se modificó la pista de la reserva debido a ocupación:",
         "no_available_court_lesson": "Para los siguientes días no había pista disponible debido a cupación de ésta:",
+        "no_monitors": "No hay monitores creadas",
         "monitors_messages": {
             "error_name_1": "El campo Nombre es obligatorio.",
             "error_name_2": "El campo Nombre no puede tener una longitud mayor a 191 caracteres.",
@@ -254,7 +255,7 @@
             "ranking": "Clasificación",
             "players": "Jugadores"
         },
-        "day_start": "Fecha de comienzo",
+        "day_start": "Comienzo",
         "in_play": "En juego",
         "open": "Por comenzar",
         "finished": "Finalizada",
@@ -294,6 +295,7 @@
         "add_player": "Añadir jugador",
         "sure_delete_couple": "Estás seguro de eliminar la pareja",
         "update_restults": "Actualizar resultados",
+        "no_leagues": "No hay ligas creadas",
         "journeys":{
             "journey_to_be_defined": "Jornadas por definir",
             "no_calendar": "Aún no se ha creado el calendario de la categoría.",
@@ -368,7 +370,7 @@
         "start_hour": "Hora de inicio",
         "other_schedule": "Pistas y horas libres",
         "end_hour": "Hora de fin",
-        "name": "Nombre torneo",
+        "name": "Nombre",
         "start_date": "Inicio Evento",
         "end_date": "Fin Evento",
         "start_registration": "Comienzo Registro",
@@ -427,6 +429,7 @@
         "result": "Resultado",
         "players_to_be_determined": "Jugadores por determinar",
         "rivals_to_be_determined": "Rivales por determinar",
+        "no_tournament": "No hay torneos creados",
         "tournaments_messages": {
             "error_1": "El campo Nombre del torneo es obligatorio.",
             "error_2": "El campo Nombre del torneo no puede tener mas de 191 caracteres.",

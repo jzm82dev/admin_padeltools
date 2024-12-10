@@ -361,6 +361,8 @@
 
 .icon-skip-back:before { content: "\e8c4"; }
 
+.icon-icon-project:before { content: "\e821";}
+
 .icon-shuffle:before { content: "\e8c5"; }
 
 .icon-sidebar:before { content: "\e8c6"; }
