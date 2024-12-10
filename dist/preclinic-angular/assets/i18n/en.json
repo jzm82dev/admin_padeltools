@@ -141,7 +141,7 @@
         "type_one_time": "On-time",
         "type_recurrent": "Weekly fixed booking",
         "type_lessons": "Lessons",
-        "no_courts_created": "In order to view and make bookings, you must first create the courts.",
+        "no_courts_created": "You must first create the courts.",
         "recurrent": {
             "recurrent_booking": "Recurring reserve",
             "list": "List",
@@ -229,6 +229,7 @@
         "date_end_lesson": "Lessons end",
         "change_court_lesson": "For the following days, the reservation court was changed due to occupancy:",
         "no_available_court_lesson": "For the following days there was no court available due to court closure:",
+        "no_monitors": "No monitors creeated",
         "monitors_messages": {
             "error_name_1": "The field Name is mandatory.",
             "error_name_2": "The field Name cannot be longer than 191 characters.",
@@ -295,6 +296,7 @@
         "add_player": "Add player",
         "update_restults": "Update results",
         "sure_delete_couple": "You are sure to remove the couple",
+        "no_leagues": "No leagues created",
         "journeys":{
             "journey_to_be_defined": "Matchdays to be defined",
             "no_calendar": "The calendar for the category has not yet been created",
@@ -428,6 +430,7 @@
         "result": "Result",
         "players_to_be_determined": "Players to be determined",
         "rivals_to_be_determined": "Rivals to be determined",
+        "no_tournament": "No tournaments created",
         "tournaments_messages": {
             "error_1": "The fields Name of the tournament is mandatory.",
             "error_2": "The Name field cannot be longer than 191 characters.",
