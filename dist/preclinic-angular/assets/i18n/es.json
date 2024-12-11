@@ -229,7 +229,7 @@
         "date_end_lesson": "Fin clases",
         "change_court_lesson": "Para los siguientes días se modificó la pista de la reserva debido a ocupación:",
         "no_available_court_lesson": "Para los siguientes días no había pista disponible debido a cupación de ésta:",
-        "no_monitors": "No hay monitores creadas",
+        "no_monitors": "No hay monitores creados",
         "monitors_messages": {
             "error_name_1": "El campo Nombre es obligatorio.",
             "error_name_2": "El campo Nombre no puede tener una longitud mayor a 191 caracteres.",
