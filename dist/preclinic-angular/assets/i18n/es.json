@@ -505,5 +505,14 @@
         "sorry_inconvenience": "Disculpen las molestias",
         "list": "Listado",
         "action": "Acción"
+    },
+    "home_page": {
+        "home": "Home",
+        "features": "Funciones",
+        "demo" : "Demo",
+        "about" : "Nosotros",
+        "customize" : "Personalizar",
+        "pages" : "Páginas",
+        "login": "Entrar"
     }
 }
