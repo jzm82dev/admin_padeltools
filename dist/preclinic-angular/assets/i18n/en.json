@@ -186,12 +186,19 @@
         "lastname": "Lastname",
         "email": "Email",
         "mobile": "Mobile",
+        "gender": "Gender",
+        "password": "Password",
+        "confirm_password": "Confirm Password",
+        "photo": "Photo",
         "created": "Created",
         "add_member": "Add Member",
         "edit_member": "Edit Member",
         "data": "Member data",
         "avatar": "Photo",
+        "your_data": "Your data",
+        "your_clubs": "Your clubs",
         "members_messages": {
+            "error_data_mandatory": "The fields Name, Surname. Mobile and Email are mandatory.",
             "error_name_1": "The field Name is mandatory.",
             "error_name_2": "The field Name cannot be longer than 191 characters.",
             "error_surname_1": "The field Lastname is mandatory.",
@@ -200,7 +207,8 @@
             "error_mobile_2": "The field Mobile cannot be longer than 50 characters.",
             "error_email_1": "The field Email is mandatory.",
             "error_email_2": "The field Email cannot be longer than 191 characters.",
-            "exist_member": "This user is already registered in the club with the name "
+            "exist_member": "This user is already registered in the club with the name ",
+            "no_match_password": "Passwords do not match."
         }
     },
     "monitors": {
