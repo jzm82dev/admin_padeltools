@@ -186,12 +186,19 @@
         "lastname": "Apellidos",
         "email": "Email",
         "mobile": "Móvil",
+        "gender": "Sexo",
+        "password": "Contraseña",
+        "confirm_password": "Confirma Contraseña",
+        "photo": "Foto",
         "created": "Creado",
         "add_member": "Añadir Socio",
         "edit_member": "Editar Socio",
         "data": "Datos del socio",
         "avatar": "Foto",
+        "your_data": "Tus datos",
+        "your_clubs": "Tus clubes",
         "members_messages": {
+            "error_data_mandatory": "El campo Nombre, Apellido, Móvil y Email son obligatorios.",
             "error_name_1": "El campo Nombre es obligatorio.",
             "error_name_2": "El campo Nombre no puede tener una longitud mayor a 191 caracteres.",
             "error_surname_1": "El campo Apellidos es obligatorio.",
@@ -200,7 +207,8 @@
             "error_mobile_2": "El campo Móvil no puede tener una longitud mayor a 50 caracteres.",
             "error_email_1": "El campo Email es obligatorio.",
             "error_email_2": "El campo Email no puede tener una longitud mayor a 191 caracteres.",
-            "exist_member": "Ya existe este usuario dado de alta en el club con nombre "
+            "exist_member": "Ya existe este usuario dado de alta en el club con nombre ",
+            "no_match_password": "Las contraseñas no coinciden."
         }
     },
     "monitors": {
