@@ -275,7 +275,14 @@
             "couples": "Parejas",
             "journeys": "Jornadas",
             "ranking": "Clasificación",
-            "players": "Jugadores"
+            "players": "Jugadores",
+            "details": "Detalle",
+            "start": "Inicio",
+            "end": "Fin",
+            "you_win": "Ganas",
+            "you_lost": "Pierdes",
+            "end_registration": "Fin Inscripción",
+            "send_message": "Mandar email"
         },
         "day_start": "Comienzo",
         "in_play": "En juego",
