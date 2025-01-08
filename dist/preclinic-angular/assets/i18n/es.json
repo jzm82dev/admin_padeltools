@@ -399,6 +399,7 @@
         "matchs": "Partidos",
         "data": "Datos",
         "schedule": "Horarios del torneo",
+        "schedule_no_play": "Incompatibilidades horarias",
         "day": "Día",
         "start_hour": "Hora de inicio",
         "other_schedule": "Pistas y horas libres",

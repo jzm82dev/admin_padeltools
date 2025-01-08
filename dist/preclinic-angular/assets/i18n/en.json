@@ -400,6 +400,7 @@
         "matchs": "Matchs",
         "data": "Data",
         "schedule": "Schedule",
+        "schedule_no_play": "Timetable incompatibilities",
         "day": "Day",
         "start_hour": "Start time",
         "other_schedule": "Timetables and free courts",
