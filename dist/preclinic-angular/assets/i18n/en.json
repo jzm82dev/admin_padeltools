@@ -464,6 +464,12 @@
         "players_to_be_determined": "Players to be determined",
         "rivals_to_be_determined": "Rivals to be determined",
         "no_tournament": "No tournaments created",
+        "payments": "Payments",
+        "players": "Players",
+        "payment_status": "Payment Status",
+        "status": "Status",
+        "payment_pending": "Pending",
+        "payment_paid": "Paid",
         "tournaments_messages": {
             "error_1": "The fields Name of the tournament is mandatory.",
             "error_2": "The Name field cannot be longer than 191 characters.",
@@ -541,7 +547,7 @@
         "list": "List",
         "action": "Action",
         "logout": "Logout",
-        "need_an_account": "Need an account",
+        "need_an_account": "Need an account?",
         "sign_up": "Sign Up"
     },
     "home_page": {

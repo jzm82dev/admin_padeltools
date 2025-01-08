@@ -322,7 +322,7 @@
         "no_couples_category": "Categoría actualmente sin parejas",
         "add_couple": "Añadir pareja",
         "register": "¡Regístrate!",
-        "join": "¡Apuntaté!",
+        "join": "¡Apúntate!",
         "join_to": "Únete a",
         "add_player": "Añadir jugador",
         "sure_delete_couple": "Estás seguro de eliminar la pareja",
@@ -463,6 +463,12 @@
         "players_to_be_determined": "Jugadores por determinar",
         "rivals_to_be_determined": "Rivales por determinar",
         "no_tournament": "No hay torneos creados",
+        "payments": "Pagos",
+        "players": "Jugadores",
+        "payment_status": "Estado Pago",
+        "status": "Estado",
+        "payment_pending": "Pediente",
+        "payment_paid": "Pagado",
         "tournaments_messages": {
             "error_1": "El campo Nombre del torneo es obligatorio.",
             "error_2": "El campo Nombre del torneo no puede tener mas de 191 caracteres.",
@@ -541,7 +547,7 @@
         "list": "Listado",
         "action": "Acción",
         "logout": "Salir",
-        "need_an_account": "No tienes cuenta",
+        "need_an_account": "¿No tienes cuenta?",
         "sign_up": "Regístrate"
     },
     "home_page": {
