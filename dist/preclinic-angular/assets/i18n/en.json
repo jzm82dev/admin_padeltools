@@ -585,6 +585,11 @@
         "phrase_16": "If you have any questions, ask us!",
         "phrase_17": "Full name",
         "phrase_18": "Your comment here",
+        "phrase_21": "Name of the club",
+        "phrase_22": "Telephone",
+        "phrase_19": "Email sent. We will contact you as soon as possible.",
+        "phrase_20": "There was an error sending the email. Please try again in a few moments. If the problem persists, please contact us directly at ",
+        "phrase_23": "All fields are mandatory",
         "phrase_send": "Send"
     },
     "register": {
