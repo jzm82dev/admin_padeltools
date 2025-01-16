@@ -585,7 +585,12 @@
         "phrase_16": "Si tienes alguna duda, ¡Pregúntanos!",
         "phrase_17": "Nombre completo",
         "phrase_18": "Tu comentario aquí",
-        "phrase_send": "Mandar"
+        "phrase_21": "Nombre del club",
+        "phrase_22": "Teléfono",
+        "phrase_19": "Email enviado. Nos podremos en contacto contigo lo antes posible.",
+        "phrase_20": "Ha habido un error el enviar el email. Inténtalo de nuevo en unos instantes. Si el problema persiste escríbenos directamente a ",
+        "phrase_23": "Todos los campos son obligatorios",
+        "phrase_send": "Enviar"
     },
     "register": {
         "club_register": "Registro de club",
