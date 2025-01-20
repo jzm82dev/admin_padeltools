@@ -119,7 +119,7 @@ $background-color_18: #e6e6e8;
 $background-color_19: #18aefa;
 $background-color_20: #3d5ee1;
 $background-color_21: #000;
-$background-color_22: #ffbc35;
+$background-color_22: #FFF3CD;
 $background-color_23: #333448;
 $background-color_24: #ffe5e6;
 $background-color_25: #fe0000;
@@ -8080,6 +8080,15 @@ a.status-pink {
   background-color: $background-color_41;
   color: $color_70;
 }
+.status-yellow {
+  background-color: $background-color_22;
+  color: $color_70;
+}
+a.status-yellow {
+  background-color: $background-color_22;
+  color: $color_70;
+}
+
 .status-grey {
   background-color: $background-color_30;
   color: $color_71;
