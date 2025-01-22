@@ -554,16 +554,19 @@
         "sign_up": "Regístrate"
     },
     "home_page": {
-        "home": "Home",
+        "home": "Inicio",
         "features": "Funciones",
         "demo" : "Demo",
         "about" : "Nosotros",
+        "examples": "Ejemplos",
         "customize" : "Personalizar",
         "pages" : "Páginas",
         "login": "Entrar",
-        "register": "Regístrate",
+        "clubs": "Clubes",
+        "players": "Jugadores",
+        "register_club": "¡Registra tu club!",
         "phrase_1": "Gestión de clubes de pádel, tenis y pickleball",
-        "phrase_2": "Gestiona tu club de tenis, pádel, pickelball o cualquier deporte de raqueta de manera sencilla. Da de alta a tus socios para que ellos se encarguen de reservar la pista sin tu preocuparte. También podrás dar de alta a tus monitores y reservarles el horario de las pistas.",
+        "phrase_2": "Gestiona tu club de tenis, pádel, pickelball o cualquier deporte de raqueta de manera sencilla. Da de alta a tus socios para que ellos se encarguen mismos de reservar la pista sin tu preocupación. También podrás dar de alta a tus monitores y reservarles el horario de las pistas.",
         "title_phrase_3": "Reserva de pistas",
         "phrase_3": "Forma sencilla de reserva de pistas. Tus socios también podrán reservar sin que te molesten.",
         "title_phrase_4": "Creación de ligas",
@@ -596,6 +599,7 @@
     },
     "register": {
         "club_register": "Registro de club",
+        "player_register": "Registro de usuario",
         "name": "Nombre",
         "surname": "Apellidos",
         "mobile": "Móvil",
@@ -608,6 +612,14 @@
         "agree": "Acepto",
         "terms": "términos",
         "and": "y",
-        "privacy": "política de pricacidad"
+        "privacy": "política de pricacidad",
+        "is_required": "es obligatorio",
+        "already_has_account": "¿Tienes ya una cuenta?",
+        "forgot_password": "¿Has olvidado tu contraseña?",
+        "remember": "Recordar",
+        "user_password_no_correct": "El usuario o contraseña es incorrecto",
+        "agree_to_the": "Acepto ",
+        "terms_and_conditions": "Términos y condiciones",
+        "accept_terms_and_conditions": "Debes aceptar Términos y Condiciones"
     }
 }
