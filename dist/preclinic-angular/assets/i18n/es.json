@@ -17,7 +17,8 @@
             "form_mobile": "Teléfono",
             "form_email": "Email",
             "form_logo": "Logo",
-            "form_select_img": "Selecciona imagen"
+            "form_select_img": "Selecciona imagen",
+            "form_viable_book_user": "Tus socios pueden hacer reserva ellos mismos"
         },
         "club_information_messages": {
             "error_1": "Los campos Nombre, Teléfono y Email  son obligatorios",
@@ -142,6 +143,9 @@
         "type_recurrent": "Fija semanal",
         "type_lessons": "Clases",
         "no_courts_created": "No hay pistas actualmente creadas.",
+        "cannot_cancel_book_less_12h": "No puedes cancelar la reserva porque quedan menos de 12h para el comienzo de la misma.",
+        "call_club_to_make_operation": "Puedes ponerte en contacto con el club para realizar la operación al teléfono ",
+        "club_cannot_allow_book": "El club no permite a los usuarios realizar reservas desde este apartado.",
         "recurrent": {
             "recurrent_booking": "Reserva fija",
             "list": "Listado",
