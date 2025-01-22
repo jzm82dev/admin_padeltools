@@ -561,7 +561,10 @@
         "customize" : "Customize",
         "pages" : "Pages",
         "login": "Login",
-        "register": "Register",
+        "clubs": "Clubs",
+        "examples": "Examples",
+        "players": "Players",
+        "register_club": "Register your club",
         "phrase_1": "Padel, tennis and pickleball club management",
         "phrase_2": "Manage your tennis, padel, pickelball or any other racket sport club in a simple way. Register your members so that they can book the courts without you having to worry about it. You can also register your monitors and reserve the timetable of the courts for them.",
         "title_phrase_3": "Booking of courts",
@@ -596,6 +599,7 @@
     },
     "register": {
         "club_register": "Club register",
+        "player_register": "User register",
         "name": "Name",
         "surname": "Surname",
         "mobile": "Mobile",
@@ -608,6 +612,14 @@
         "agree": "I agree to the",
         "terms": "terms",
         "and": "and",
-        "privacy": "privacy policy"
+        "privacy": "privacy policy",
+        "is_required": "is required",
+        "already_has_account": "Already have account?",
+        "forgot_password": "Forgot your password?",
+        "remember": "Remember",
+        "user_password_no_correct": "The user or password is incorrect",
+        "agree_to_the": "I agree to the",
+        "terms_and_conditions": "terms and conditions",
+        "accept_terms_and_conditions": "You must accept the Terms and Conditions"
     }
 }
