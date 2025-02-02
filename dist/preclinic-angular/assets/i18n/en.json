@@ -17,7 +17,8 @@
             "form_mobile": "Phone",
             "form_email": "Email",
             "form_logo": "Logo",
-            "form_select_img": "Select image"
+            "form_select_img": "Select image",
+            "form_viable_book_user": "Your partners can book themselves"
         },
         "club_information_messages": {
             "error_1": "The fields Name, Phone and Email are mandatory.",
@@ -142,6 +143,9 @@
         "type_recurrent": "Weekly fixed booking",
         "type_lessons": "Lessons",
         "no_courts_created": "You must first create the courts.",
+        "cannot_cancel_book_less_12h": "You cannot cancel your booking because there are less than 12 hours left until the start of the booking.",
+        "call_club_to_make_operation": "You can contact the club to carry out the operation on the following telephone number ",
+        "club_cannot_allow_book": "The club does not allow users to make reservations from this section.",
         "recurrent": {
             "recurrent_booking": "Recurring reserve",
             "list": "List",
@@ -561,7 +565,10 @@
         "customize" : "Customize",
         "pages" : "Pages",
         "login": "Login",
-        "register": "Register",
+        "clubs": "Clubs",
+        "examples": "Examples",
+        "players": "Players",
+        "register_club": "Register your club",
         "phrase_1": "Padel, tennis and pickleball club management",
         "phrase_2": "Manage your tennis, padel, pickelball or any other racket sport club in a simple way. Register your members so that they can book the courts without you having to worry about it. You can also register your monitors and reserve the timetable of the courts for them.",
         "title_phrase_3": "Booking of courts",
@@ -596,6 +603,7 @@
     },
     "register": {
         "club_register": "Club register",
+        "player_register": "User register",
         "name": "Name",
         "surname": "Surname",
         "mobile": "Mobile",
@@ -608,6 +616,14 @@
         "agree": "I agree to the",
         "terms": "terms",
         "and": "and",
-        "privacy": "privacy policy"
+        "privacy": "privacy policy",
+        "is_required": "is required",
+        "already_has_account": "Already have account?",
+        "forgot_password": "Forgot your password?",
+        "remember": "Remember",
+        "user_password_no_correct": "The user or password is incorrect",
+        "agree_to_the": "I agree to the",
+        "terms_and_conditions": "terms and conditions",
+        "accept_terms_and_conditions": "You must accept the Terms and Conditions"
     }
 }
