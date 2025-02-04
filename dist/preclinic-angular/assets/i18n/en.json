@@ -123,6 +123,7 @@
         "phrase_club_closed": "The club is closed on ",
         "booking_data": "Booking data",
         "booking_time": "Booking time",
+        "booking_created": "Created",
         "sure_to_cancel": "Are you sure you want to cancel the booking of ",
         "time": "Time",
         "error_1": "The name, telephone number and time of the booking are mandatory.",
