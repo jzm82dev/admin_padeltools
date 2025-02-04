@@ -123,6 +123,7 @@
         "phrase_club_closed": "El club está cerrado los ",
         "booking_data": "Datos de la reserva",
         "booking_time": "Hora",
+        "booking_created": "Creada",
         "sure_to_cancel": "¿Estás seguro de cancelar la reserva de ",
         "time": "Hora",
         "error_1": "El nombre, teléfono y hora de la reserva son obligatorios",
