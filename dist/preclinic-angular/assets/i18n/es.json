@@ -95,6 +95,9 @@
             "placehoder_youtube":"Introduce link de tu perfil de Youtube",
             "placehoder_linkedin":"Introduce link de tu perfil de LinkedIn"
         },
+        "status_open_inscriptions": "Abierto Inscripciones",
+        "status_finished": "Finalizado",
+        "status_in_play": "En juego",
         "dashboard": "Dashboard",
         "club": "Club",
         "court_type": "Tipo de pista",

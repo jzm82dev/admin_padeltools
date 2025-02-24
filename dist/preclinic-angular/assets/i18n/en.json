@@ -95,6 +95,9 @@
             "placehoder_youtube":"Enter your Youtube profile link",
             "placehoder_linkedin":"Enter your LinkedIn profile link"
         },
+        "status_open_inscriptions": "Open for registration",
+        "status_finished": "Finished",
+        "status_in_play": "In progress",
         "dashboard": "Dashboard",
         "club": "Club",
         "court_type": "Type of court",
@@ -301,7 +304,7 @@
             "end_registration": "End Registration",
             "send_message": "Send Message"
         },
-        "day_start": "Start date",
+        "day_start": "Start",
         "in_play": "Playing",
         "open": "To start",
         "in_draft": "In draft",
@@ -422,7 +425,7 @@
         "start_hour": "Start time",
         "other_schedule": "Timetables and free courts",
         "end_hour": "End time",
-        "name": "Tournament name",
+        "name": "Name",
         "start_date": "Event Begings",
         "end_date": "Event Ends",
         "start_registration": "Registration Starts",
