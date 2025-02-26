@@ -372,7 +372,13 @@
             "set_1": "Set 1",
             "set_2": "Set 2",
             "set_3": "Set 3",
-            "match": "Partido"
+            "match": "Partido",
+            "not_match_played": "No has jugado ningún partido",
+            "league_matches": "Partidos de ligas",
+            "tournament_matches": "Partidos de torneos",
+            "my_matches": "Mis partidos",
+            "league_and_tournament": "Ligas & Torneos",
+            "tournament": "Torneo"
         },
         "ranking":{
             "ranking": "Clasificación",
@@ -542,6 +548,7 @@
         "refuse": "Rechazar",
         "error": "Error!",
         "success": "Bien!",
+        "hello": "Hola",
         "data_save_correctly": "Datos guardados correctamente.",
         "data_save_error": "Ha habido un error al guardar los datos.",
         "data_delete_error": "Ha ocurrido un error al intentar eliminar el dato. ",

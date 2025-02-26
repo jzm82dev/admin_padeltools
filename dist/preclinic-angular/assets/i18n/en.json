@@ -373,7 +373,13 @@
             "set_1": "Set 1",
             "set_2": "Set 2",
             "set_3": "Set 3",
-            "match": "Match"
+            "match": "Match",
+            "not_match_played": "You have not played a match",
+            "league_matches": "League matches",
+            "tournament_matches": "Tournament matches",
+            "my_matches": "My matches",
+            "league_and_tournament": "Leagues & Tournaments",
+            "tournament": "Tournament"
         },
         "ranking":{
             "ranking": "Classification",
@@ -542,6 +548,7 @@
         "refuse": "Refuse",
         "error": "Error!",
         "success": "Good!",
+        "hello": "Hello",
         "data_save_correctly": "Data saved correctly.",
         "data_save_error": "An error occurred while saving the data.",
         "data_delete_error": "An error occurred while trying to delete the data. ",
