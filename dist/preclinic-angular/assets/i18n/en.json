@@ -201,6 +201,7 @@
     "wallet":{
         "virtual_wallet": "Virtual Wallet",
         "edit": "Edit",
+        "new": "Nuevo",
         "wallet_data": "Data",
         "concept": "Concept",
         "information": "Inf",
