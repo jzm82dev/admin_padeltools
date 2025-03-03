@@ -201,6 +201,7 @@
     "wallet":{
         "virtual_wallet": "Monedero Virtual",
         "edit": "Editar",
+        "new": "Nuevo",
         "wallet_data": "Datos",
         "concept": "Concepto",
         "information": "Info",
