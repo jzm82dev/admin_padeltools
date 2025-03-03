@@ -198,6 +198,28 @@
             "phrase_confirmation": "Are you sure to remove the day's reservation "
         }
     },
+    "wallet":{
+        "virtual_wallet": "Virtual Wallet",
+        "edit": "Edit",
+        "wallet_data": "Data",
+        "concept": "Concept",
+        "information": "Inf",
+        "amount": "Amount",
+        "recharge": "Recharge",
+        "notice_1": "Enter concept of expenditure",
+        "notice_2": "Enter amount of expenditure",
+        "spent_created": "Expenditure correctly created",
+        "amount_negative": "Customer's wallet is in negative",
+        "add_spent": "Add expense",
+        "add_recharge": "Add recharge",
+        "history": "History",
+        "date": "Date",
+        "new_spent": "New expense",
+        "sure_remove_wallet": "Are you sure to remove the wallet of ",
+        "sure_remove_spent": "Are you sure to erase the cost of ",
+        "recharge_credit": "Recharge credit",
+        "recharge_added": "Top up added to the wallet"
+    },
     "members": {
         "members": "Members",
         "new_member": "New member",

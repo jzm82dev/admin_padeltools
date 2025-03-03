@@ -198,6 +198,28 @@
             "phrase_confirmation": "¿Estás seguro de eliminar la reserva del día "
         }
     },
+    "wallet":{
+        "virtual_wallet": "Monedero Virtual",
+        "edit": "Editar",
+        "wallet_data": "Datos",
+        "concept": "Concepto",
+        "information": "Info",
+        "amount": "Cuantía",
+        "recharge": "Recarga",
+        "notice_1": "Introduce concepto del gasto",
+        "notice_2": "Introduce la cuantía del gasto",
+        "spent_created": "Gasto creado correctamente",
+        "amount_negative": "El monedero del cliente está en negativo",
+        "add_spent": "Añadir gasto",
+        "add_recharge": "Añadir recarga",
+        "history": "Histórico",
+        "date": "Fecha",
+        "new_spent": "Nuevo gasto",
+        "sure_remove_wallet": "¿Estás seguro de eliminar el monedero de ",
+        "sure_remove_spent": "¿Estás seguro de borrar el gasto de ",
+        "recharge_credit": "Recargar saldo",
+        "recharge_added": "Recarga añadida al monedero"
+    },
     "members": {
         "members": "Socios",
         "new_member": "Nuevo socio",
