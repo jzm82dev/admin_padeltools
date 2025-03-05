@@ -222,6 +222,13 @@
         "recharge_added": "Recarga añadida al monedero"
     },
     "members": {
+        "clubs_in_wlr": "Clubes suscritos a WeLoveRacket",
+        "your_virtual_wallet": "Tus monederos virtuales",
+        "detail": "Detalle",
+        "history": "Histórico",
+        "club": "Club",
+        "amount": "Saldo",
+        "no_current_wallet": "Actualmente no dispone de monederos",
         "members": "Socios",
         "new_member": "Nuevo socio",
         "members_list": "Listado de Socios",
