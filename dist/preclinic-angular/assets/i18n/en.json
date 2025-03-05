@@ -222,6 +222,13 @@
         "recharge_added": "Top up added to the wallet"
     },
     "members": {
+        "clubs_in_wlr": "Clubs subscribed to WeLoveRacket",
+        "your_virtual_wallet": "Your virtual wallets",
+        "detail": "Detail",
+        "history": "History",
+        "club": "Club",
+        "amount": "Balance",
+        "no_current_wallet": "Currently no virtual wallets are available",
         "members": "Members",
         "new_member": "New member",
         "members_list": "List of Members",
