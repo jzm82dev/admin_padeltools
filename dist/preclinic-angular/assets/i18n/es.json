@@ -333,6 +333,8 @@
             "end_registration": "Fin Inscripción",
             "send_message": "Mandar email"
         },
+        "points": "Puntos",
+        "games": "Juegos",
         "day_start": "Comienzo",
         "in_play": "En juego",
         "open": "Por comenzar",
@@ -532,6 +534,9 @@
         "from_to": "Desde las",
         "until_to": "Hasta las",
         "add": "AÑADIR",
+        "format": "Formato",
+        "new_category": "Nueva categoría",
+        "schedule_match": "Horario",
         "tournaments_messages": {
             "error_1": "El campo Nombre del torneo es obligatorio.",
             "error_2": "El campo Nombre del torneo no puede tener mas de 191 caracteres.",
@@ -546,6 +551,9 @@
             "error_11": "El campo Fin de Registro es obligatorio.",
             "error_12": "La hora del Fin del Registro es obligatoria.",
             "error_13": "El deporte es obligatorio.",
+            "error_14": "Para este deporte tienes que elegir entre Dobles o Individuales",
+            "error_15": "Para poder cambiar el tipo de partido tienes que eliminar las parejas actuales de la categoría",
+            "error_16": "Por favor, revisa las puntaciones por victoria o derrota de los jugadores",
             "success_delete_category": "Categoría del torneo eliminada correctamente.",
             "success_delete_schedule": "Horario del torneo eliminado correctamente.",
             "operation_not_permitted": "Operación no permitida ",

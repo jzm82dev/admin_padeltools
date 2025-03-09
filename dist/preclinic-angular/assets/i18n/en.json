@@ -334,6 +334,8 @@
             "end_registration": "End Registration",
             "send_message": "Send Message"
         },
+        "points": "Points",
+        "games": "Games",
         "day_start": "Start",
         "in_play": "Playing",
         "open": "To start",
@@ -533,6 +535,9 @@
         "from_to": "From",
         "until_to": "Until",
         "add": "ADD",
+        "format": "Format",
+        "new_category": "New category",
+        "schedule_match": "Schedule",
         "tournaments_messages": {
             "error_1": "The fields Name of the tournament is mandatory.",
             "error_2": "The Name field cannot be longer than 191 characters.",
@@ -546,6 +551,9 @@
             "error_11": "The End of Registration field is mandatory.",
             "error_12": "End of Registration time is mandatory.",
             "error_13": "Sport is mandatory.",
+            "error_14": "For this sport you have to choose between Doubles or Singles",
+            "error_15": "In order to change the type of match you have to remove the current couples from the category",
+            "error_16": "Please check the win/loss scores of the players.",
             "success_delete_category": "The category has been correctly deleted.",
             "success_delete_schedule": "The schedule has been correctly deleted.",
             "operation_not_permitted": "Operation not permitted ",
