@@ -70,7 +70,8 @@
             "error_1": "La hora de cierre es mayor que la de apertura",
             "error_2": "Introduce el día que quieres cambiar el horario",
             "error_3": "Motivo del cambio de horario para ese día",
-            "error_4": "El motivo no puede ser mayor de 191 caracteres"
+            "error_4": "El motivo no puede ser mayor de 191 caracteres",
+            "error_5": "Existe un horario especial para ese día"
         },
         "court":{
             "court_list": "Listado de pista",

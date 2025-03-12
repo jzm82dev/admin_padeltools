@@ -70,7 +70,8 @@
             "error_1": "The closing time is longer than the opening time",
             "error_2": "Enter the day you want to change the schedule",
             "error_3": "Reason for the timetable change for that day",
-            "error_4": "The reason may not be longer than 191 characters"
+            "error_4": "The reason may not be longer than 191 characters",
+            "error_5": "There is a special timetable for that day"
         },
         "court":{
             "court_list": "List of court",
