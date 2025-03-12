@@ -59,8 +59,18 @@
             "opens_at": "Abre a las",
             "closes_at": "Cierra a las",
             "closed": "Cerrado",
-            "no_schedule_for": "No hay horario definido para el",
-            "hour": "Hora..."
+            "no_schedule_for": "Sin horario para el",
+            "hour": "Hora...",
+            "special_days_schedule": "Horario de días especiales",  
+            "day": "Día",
+            "info": "Motivo",
+            "no_special_schedule": "No hay horarios especiales",
+            "special_days_by": "Horario especial por",
+            "close_day": "Cerramos este día",
+            "error_1": "La hora de cierre es mayor que la de apertura",
+            "error_2": "Introduce el día que quieres cambiar el horario",
+            "error_3": "Motivo del cambio de horario para ese día",
+            "error_4": "El motivo no puede ser mayor de 191 caracteres"
         },
         "court":{
             "court_list": "Listado de pista",
@@ -601,6 +611,7 @@
         "max_size_img": "Por favor, seleccione una imagen menos pesada. Tamaño máximo 2MB.",
         "save_lesson_correctly": "Las reservas de clases del monitor han sido guardadas correctamente.",
         "save_lesson_error": "Ha habido un error al reservar las clases del monitor.",
+        "reservation_at_old_hours": "Hay reservas creadas con el horario antiguo. Si quieres modificar el horario borra las reservas de los días: ", 
         "remove": "Borrar",
         "day_1": "Lunes",
         "day_2":"Martes",

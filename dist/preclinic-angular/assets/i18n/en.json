@@ -60,7 +60,17 @@
             "closes_at": "Closes at",
             "closed": "Closed",
             "no_schedule_for": "No timetable for",
-            "hour": "Hour..."
+            "hour": "Hour...",
+            "special_days_schedule": "Timetable for special days",  
+            "day": "Day",
+            "info": "Reason",
+            "no_special_schedule": "No special schedules",
+            "special_days_by": "Special opening hours for",
+            "close_day": "We close this day",
+            "error_1": "The closing time is longer than the opening time",
+            "error_2": "Enter the day you want to change the schedule",
+            "error_3": "Reason for the timetable change for that day",
+            "error_4": "The reason may not be longer than 191 characters"
         },
         "court":{
             "court_list": "List of court",
@@ -601,6 +611,7 @@
         "max_size_img": "Please select a lighter image. Maximum size 2MB.",
         "save_lesson_correctly": "The monitor's lesson bookings have been saved correctly.",
         "save_lesson_error": "There has been an error booking the instructor's lessons.",
+        "reservation_at_old_hours": "There are bookings created with the old timetable. If you want to change the timetable, delete the bookings of the days: ", 
         "remove": "Remove",
         "day_1": "Monday",
         "day_2":"Tuesday",
