@@ -717,7 +717,7 @@
         "password": "Contraseña",
         "confirm_password": "Confirma Contraseña",
         "pass_not_match": "Las contraseñas no coinciden",
-        "register_code": "Código de registro",
+        "register_code": "Código promocional",
         "sign_up": "Regístrate",
         "agree": "Acepto",
         "terms": "términos",
@@ -728,8 +728,13 @@
         "forgot_password": "¿Has olvidado tu contraseña?",
         "remember": "Recordar",
         "user_password_no_correct": "El usuario o contraseña es incorrecto",
+        "password_no_correct": "La contraseña es incorrecta",
+        "email_verified": "tu email ha sido verificado :)",
+        "enter_password": "Introduce tu contraseña para entrar en la aplicación",
         "agree_to_the": "Acepto ",
         "terms_and_conditions": "Términos y condiciones",
-        "accept_terms_and_conditions": "Debes aceptar Términos y Condiciones"
+        "accept_terms_and_conditions": "Debes aceptar Términos y Condiciones",
+        "welcome_message_1": "Bienvenido a WeLoveRacket. Te hemos mandado un email a ",
+        "welcome_message_2": "Si no lo has recibido revisa tu spam o quizás está mal el email que has introducido y ponte en contacto con nosotros."
     }
 }
