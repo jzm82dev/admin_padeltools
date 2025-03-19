@@ -648,7 +648,7 @@
         "clubs": "Clubs",
         "examples": "Examples",
         "players": "Players",
-        "register_club": "Register your club",
+        "register_club": "Register your club for free",
         "phrase_1": "Padel, tennis and pickleball club management",
         "phrase_1_b": "Easily and efficiently manage your racket sports club.",
         "phrase_2": "Register your members and allow them to book courts independently, without having to worry about the management. Create your leagues and tournaments by automatically assigning squares, days, courts and schedules. You will also be able to register your monitors and assign them timetables on the courts in a quick and organised way. You will also have a virtual wallet for players who want to forget about carrying their money with them. Translated with DeepL.com (free version)",
@@ -658,8 +658,8 @@
         "phrase_4": "You can create the leagues and just enter the results. The rest is up to us.",
         "title_phrase_5": "Tournament creation",
         "phrase_5": "Create your tournaments and matches will be scheduled automatically based on court and player availability.",
-        "phrase_6": "Clubs that have already joined",
-        "phrase_7": "Below, you'll find the clubs that have joined ",
+        "phrase_6": "Clubs with ",
+        "phrase_7": "These clubs are part of ",
         "phrase_7a": "WeLoveRacket",
         "phrase_7b": "You can access each of them to check schedules, explore available services, book courts, find specialized instructors for lessons, and view results. Additionally, you can sign up for tournaments and leagues organized by each club. Everything at your fingertips!",
         "phrase_8": "If you are a member you will be able to book your court free of charge from Weloveracket.",
@@ -704,7 +704,7 @@
         "phrase_42": "Do you love competition and enjoy sports? Don't miss the chance to join the leagues and tournaments organized by your sports club! Whether you're a beginner or a pro, our competitions are designed for all skill levels. Signing up is quick and easy, and it’s the best way to experience the thrill of sports while having fun and making new friends.",
         "phrase_43": "Don't wait any longer—be part of the action!",
         "phrase_44": "Do You Play Padel, Tennis, or Pickleball? Or Are You a Coach?",
-        "sign_up": "Sign up!",
+        "sign_up": "Sign up for free!",
         "go_to_club": "Go to club"
     },
     "register": {

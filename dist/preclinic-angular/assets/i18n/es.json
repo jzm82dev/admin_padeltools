@@ -648,7 +648,7 @@
         "courts": "Pistas",
         "clubs": "Clubes",
         "players": "Jugadores",
-        "register_club": "¡Registra tu club!",
+        "register_club": "¡Registra tu club gratis!",
         "phrase_1": "Gestión de clubes de pádel, tenis y pickleball",
         "phrase_1_b": "Gestiona tu club de tenis, pádel, pickleball o cualquier deporte de raqueta de forma simple y eficiente.",
         "phrase_2": "Registra a tus socios y permíteles reservar pistas de manera autónoma, sin que tengas que preocuparte por la gestión. Crea tus ligas y torneos asignando cuadro, jornadas, pistas y horarios automáticamente. Además, podrás dar de alta a tus monitores y asignarles horarios en las pistas de forma rápida y organizada. También dispondrás de un momedero virtual para los jugadores que quieran olvidase de llevar el dinero consigo. ",
@@ -658,8 +658,8 @@
         "phrase_4": "Podrás crear las ligas y sólo encargate de introducir los resultados. El resto es cosa nuestra.",
         "title_phrase_5": "Creación de torneos",
         "phrase_5": "Crea tus torneos y los partidos se programarán automáticamente teniendo en cuenta la disponibilidad de pistas y jugadores.",
-        "phrase_6": "Clubes que ya se han unido",
-        "phrase_7": "A continuación, te presentamos los clubes que se han unido a ",
+        "phrase_6": "Clubes en",
+        "phrase_7": "Estos clubes forman parte de ",
         "phrase_7a": "WeLoveRacket",
         "phrase_7b": "Podrás acceder a cada uno de ellos para consultar horarios, conocer los servicios disponibles, reservar pistas, encontrar monitores especializados para clases y obtener información sobre resultados. Además, podrás inscribirte en torneos y ligas organizadas por cada club. ¡Todo al alcance de un clic!",
         "phrase_8": "¡No esperes más y únete a la diversión!",
@@ -704,7 +704,7 @@
         "phrase_42": "¿Te gusta competir y disfrutar del deporte? ¡No te pierdas la oportunidad de unirte a las ligas y torneos organizados por tu club deportivo! Ya seas principiante o experto, nuestras competiciones están diseñadas para todos los niveles. Apuntarse es fácil y rápido, y es la mejor manera de vivir la emoción del deporte mientras te diviertes y haces nuevos amigos. ",
         "phrase_43": "¡No esperes más y forma parte de la acción!",
         "phrase_44": "¿Juegas al Pádel, Tenis o Pickleball? ¿O Eres Monitor?",
-        "sign_up": "¡Regístrate!",
+        "sign_up": "¡Regístrate gratis!!",
         "go_to_club": "Ir al club"
     },
     "register": {
