@@ -396,7 +396,7 @@
         "journeys":{
             "journey_to_be_defined": "Jornadas por definir",
             "no_calendar": "Aún no se ha creado el calendario de la categoría.",
-            "no_calendar_no_couples": "Para crear el calendario de las jornadas primero hay que introducir las parejas en el apartado anterior",
+            "no_calendar_no_couples": "Para crear el calendario de las jornadas primero hay que introducir las parejas en el apartado anterior y su formato (ida o ida/vuelta) ",
             "create_calendar_text":"Para crear las jornadas con sus respectivos enfrentamientos pulse el botón. Una vez creado el calendario no se podrán agregar nuevas parejas para esta categoría",
             "create_calendar": "Crear Jornadas",
             "journey": "Jornada",
@@ -565,6 +565,7 @@
             "error_14": "Para este deporte tienes que elegir entre Dobles o Individuales",
             "error_15": "Para poder cambiar el tipo de partido tienes que eliminar las parejas actuales de la categoría",
             "error_16": "Por favor, revisa las puntaciones por victoria o derrota de los jugadores",
+            "error_17": "Por favor, selecciona el tipo de formato de la categoría.",
             "success_delete_category": "Categoría del torneo eliminada correctamente.",
             "success_delete_schedule": "Horario del torneo eliminado correctamente.",
             "operation_not_permitted": "Operación no permitida ",
@@ -590,7 +591,9 @@
             "normal_draw": "Cuadro Normal",
             "draw_and_losser_draw": "Cuadro + Cuadro Consolación",
             "american": "Americano",
-            "round_robin_two_legs": "Liga (Ida y Vuelta)"
+            "round_robin_two_legs": "Liga (Ida y Vuelta)",
+            "only_one_leg": "Sólo ida",
+            "two_leg": "Ida y vuelta"
         }
     },
 
