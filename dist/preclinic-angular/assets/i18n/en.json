@@ -397,7 +397,7 @@
         "journeys":{
             "journey_to_be_defined": "Matchdays to be defined",
             "no_calendar": "The calendar for the category has not yet been created",
-            "no_calendar_no_couples": "In order to create the calendar of events, the pairs must first be entered in the previous section",
+            "no_calendar_no_couples": "In order to create the calendar of events, the pairs must first be entered in the previous section and the format (one leg or two-leg tie)",
             "create_calendar_text":"To create the matchdays with their respective clashes click on the button. Once the calendar has been created, no new pairings can be added for this category.",
             "create_calendar": "Create calendar",
             "journey": "Matchday",
@@ -565,6 +565,7 @@
             "error_14": "For this sport you have to choose between Doubles or Singles",
             "error_15": "In order to change the type of match you have to remove the current couples from the category",
             "error_16": "Please check the win/loss scores of the players.",
+            "error_17": "Please select the category format type.",
             "success_delete_category": "The category has been correctly deleted.",
             "success_delete_schedule": "The schedule has been correctly deleted.",
             "operation_not_permitted": "Operation not permitted ",
@@ -590,7 +591,9 @@
             "normal_draw": "Normal Draw",
             "draw_and_losser_draw": "Main and Back Draw",
             "american": "American",
-            "round_robin_two_legs": "Two-legged Tie"
+            "round_robin_two_legs": "Two-legged Tie",
+            "only_one_leg": "One one leg",
+            "two_leg": "Two-legged Tie"
         }
     },
 
