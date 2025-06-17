@@ -608,6 +608,7 @@
         "success": "Bien!",
         "hello": "Hola",
         "data_save_correctly": "Datos guardados correctamente.",
+        "book_save_correctly": "Reserva realizada correctamente",
         "data_save_error": "Ha habido un error al guardar los datos.",
         "data_delete_error": "Ha ocurrido un error al intentar eliminar el dato. ",
         "consult_admin": "Si el problema persiste consulte con su administrador",
