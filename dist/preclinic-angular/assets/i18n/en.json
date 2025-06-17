@@ -608,6 +608,7 @@
         "success": "Good!",
         "hello": "Hello",
         "data_save_correctly": "Data saved correctly.",
+        "book_save_correctly": "Book created correctly",
         "data_save_error": "An error occurred while saving the data.",
         "data_delete_error": "An error occurred while trying to delete the data. ",
         "consult_admin": "If the problem persists, consult your administrator",
