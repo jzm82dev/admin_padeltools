@@ -60,7 +60,9 @@
             "closes_at": "Cierra a las",
             "closed": "Cerrado",
             "no_schedule_for": "Sin horario para el",
-            "hour": "Hora...",
+            "hour": "Hora",
+            "court": "Pista",
+            "add_couples": "Añadir parejas",
             "special_days_schedule": "Horario de días especiales",  
             "day": "Día",
             "info": "Motivo",
@@ -124,7 +126,8 @@
         "select_type": "Selecciona tipo",
         "match_type_double": "Dobles",
         "match_type_single": "Individual",
-        "points": "Puntuaciones"
+        "points": "Puntuaciones",
+        "pairing": "Enfrentamientos primera ronda"
     },
 
     "reservations":{
@@ -569,6 +572,7 @@
             "error_16": "Por favor, revisa las puntaciones por victoria o derrota de los jugadores",
             "error_17": "Por favor, selecciona el tipo de formato de la categoría.",
             "error_18": "Tiempo por partido tiene que tener una duración estimada de mínimo 15 minutos.",
+            "error_19": "Por favor, indique si los enfrentamientos iniciales se generan automáticamente o manual.",
             "success_delete_category": "Categoría del torneo eliminada correctamente.",
             "success_delete_schedule": "Horario del torneo eliminado correctamente.",
             "operation_not_permitted": "Operación no permitida ",
@@ -596,7 +600,9 @@
             "american": "Americano",
             "round_robin_two_legs": "Liga (Ida y Vuelta)",
             "only_one_leg": "Sólo ida",
-            "two_leg": "Ida y vuelta"
+            "two_leg": "Ida y vuelta",
+            "manual": "Manual",
+            "automatic": "Automático"
         }
     },
 

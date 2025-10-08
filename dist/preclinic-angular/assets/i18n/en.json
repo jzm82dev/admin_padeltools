@@ -60,7 +60,9 @@
             "closes_at": "Closes at",
             "closed": "Closed",
             "no_schedule_for": "No timetable for",
-            "hour": "Hour...",
+            "hour": "Hour",
+            "court": "Court",
+            "add_couples": "Add couples",
             "special_days_schedule": "Timetable for special days",  
             "day": "Day",
             "info": "Reason",
@@ -124,7 +126,8 @@
         "select_type": "Select type",
         "match_type_double": "Doubles",
         "match_type_single": "Singles",
-        "points": "Scores"
+        "points": "Scores",
+        "pairing": "First round matches"
     },
     
     "reservations":{
@@ -569,6 +572,7 @@
             "error_16": "Please check the win/loss scores of the players.",
             "error_17": "Please select the category format type.",
             "error_18": "Time per match must have an estimated duration of at least 15 minutes.",
+            "error_19": "Please indicate whether initial clashes are generated automatically or manually.",
             "success_delete_category": "The category has been correctly deleted.",
             "success_delete_schedule": "The schedule has been correctly deleted.",
             "operation_not_permitted": "Operation not permitted ",
@@ -596,7 +600,9 @@
             "american": "American",
             "round_robin_two_legs": "Two-legged Tie",
             "only_one_leg": "One one leg",
-            "two_leg": "Two-legged Tie"
+            "two_leg": "Two-legged Tie",
+            "manual": "Manual",
+            "automatic": "Automatic"
         }
     },
 
