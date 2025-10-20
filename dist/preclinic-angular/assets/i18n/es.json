@@ -127,7 +127,7 @@
         "match_type_double": "Dobles",
         "match_type_single": "Individual",
         "points": "Puntuaciones",
-        "pairing": "Enfrentamientos primera ronda"
+        "pairing": "Enfrentamientos"
     },
 
     "reservations":{
@@ -347,6 +347,21 @@
             "end_registration": "Fin Inscripción",
             "send_message": "Mandar email"
         },
+        "create_jorneys": "Crear Jornadas",
+        "journeys_to_be_defined": "Jornadas por crear",
+        "no_journeys": "Aún no se han creado las jornadas de la liga",
+        "create_jorney_text":"Para crear las jornadas de la liga con sus respectivos enfrentamientos pulse el botón. Una vez creadas las jornadas no se podrán agregar nuevas parejas para las categorías de la liga (siempre podrás resetear las jornadas)",
+        "reset_league": "Resetear Jornadas",
+        "league_setup": "Liga creada",
+        "league_setup_info": "Todas las jornadas de la liga han sido configuradas",
+        "consult_categories": "Puede consultarlo entrando en cada catetoría en la tabla de arriba",
+        "no_draw_no_couples": "Para crear las jornadas primero hay que introducir las parejas de todas las categorías",
+        "cannot_configure_league": "Las categorías en rojo aún no se han configurado por lo que no se pueden generar las jornadas de la liga.",
+        "start_setting_up": "Comenzando a crear las jornadas", 
+        "setting_up": "Configurando ",
+        "success_draw_created": "BIEN, la liga ha sido configurada correctamente.",
+        "sure_delete_journeys": "¿Estás seguro de borrar las jornadas de la liga?",
+        "info_delete_journeys": "Ten en cuenta que no se podrá recuperar",
         "points": "Puntos",
         "games": "Juegos",
         "day_start": "Comienzo",
@@ -577,7 +592,7 @@
             "success_delete_schedule": "Horario del torneo eliminado correctamente.",
             "operation_not_permitted": "Operación no permitida ",
             "cannot_save_changes": "El torneo ha sido configurado y no se permite hacer cambios. Si quieres actualizar debes resetear el torneo en la pestaña de Categorías.",
-            "cannot_configure_tournament": "Las categorías en rojo aún no se han configurado por lo que no se pueden generar los cuadros o ligas del torneo.",
+            "cannot_configure_tournament": "Las categorías en rojo aún no se han configurado por lo que no se pueden generar los cuadros del torneo.",
             "not_enough_courts": "No hay suficientes pistas con el tiempo estimado por partido para asignar todos los partidos del torneo. Por favor, cambia el tiempo por partido en la pestaña de Datos Generales."
         },
         "rounds": {
@@ -602,7 +617,7 @@
             "only_one_leg": "Sólo ida",
             "two_leg": "Ida y vuelta",
             "manual": "Manual",
-            "automatic": "Automático"
+            "automatic": "Aleatorios"
         }
     },
 
