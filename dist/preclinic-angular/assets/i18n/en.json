@@ -127,7 +127,7 @@
         "match_type_double": "Doubles",
         "match_type_single": "Singles",
         "points": "Scores",
-        "pairing": "First round matches"
+        "pairing": "Matches"
     },
     
     "reservations":{
@@ -348,6 +348,21 @@
             "end_registration": "End Registration",
             "send_message": "Send Message"
         },
+        "create_jorneys": "Create Matches",
+        "journeys_to_be_defined": "League matches to be created",
+        "no_journeys": "The league fixtures have not yet been created",
+        "create_jorney_text":"To create the league fixtures with their respective matches, press the button. Once the fixtures have been created, no new pairs can be added to the league categories (you can always reset the fixtures).",
+        "reset_league": "Reset Matchs",
+        "league_setup": "League set up",
+        "league_setup_info": "All league match days have been scheduled.",
+        "consult_categories": "You can consult it by entering each category in the table above.",
+        "no_draw_no_couples": "To create the rounds, you must first enter the pairs for all categories.",
+        "cannot_configure_league": "The categories in red have not yet been configured, so the league fixtures cannot be generated.",
+        "start_setting_up": "Starting to create the league fixtures", 
+        "setting_up": "Setting up ",
+        "success_draw_created": "GREAT, the league has been set up correctly.",
+        "sure_delete_journeys": "Are you sure you want to delete all the matchs from the league?",
+        "info_delete_journeys": "Please note that it cannot be recovered",
         "points": "Points",
         "games": "Games",
         "day_start": "Start",
@@ -577,7 +592,7 @@
             "success_delete_schedule": "The schedule has been correctly deleted.",
             "operation_not_permitted": "Operation not permitted ",
             "cannot_save_changes": "The tournament has been set up and no changes are allowed. If you want to update you must reset the tournament in the Categories tab.",
-            "cannot_configure_tournament": "The categories in red have not yet been configured, so it is not yet possible to generate tournament tables or leagues.",
+            "cannot_configure_tournament": "The categories in red have not yet been configured, so it is not yet possible to generate tournament tables.",
             "not_enough_courts": "Not enough courts with the estimated time per match to allocate all matches in the tournament. Please change the time per match in the General Data tab."
         },
         "rounds": {
@@ -602,7 +617,7 @@
             "only_one_leg": "One one leg",
             "two_leg": "Two-legged Tie",
             "manual": "Manual",
-            "automatic": "Automatic"
+            "automatic": "Random"
         }
     },
 
