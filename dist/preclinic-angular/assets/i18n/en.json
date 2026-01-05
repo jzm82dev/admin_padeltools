@@ -681,6 +681,8 @@
         "examples": "Examples",
         "players": "Players",
         "register_club": "Register your club for free",
+        "no_club":"You are not a club but you are a player, register by clicking",
+        "here": "HERE",
         "phrase_1": "Padel, tennis and pickleball club management",
         "phrase_1_b": "Easily and efficiently manage your racket sports club.",
         "phrase_2": "Register your members and allow them to book courts independently, without having to worry about the management. Create your leagues and tournaments by automatically assigning squares, days, courts and schedules. You will also be able to register your monitors and assign them timetables on the courts in a quick and organised way. You will also have a virtual wallet for players who want to forget about carrying their money with them. Translated with DeepL.com (free version)",
