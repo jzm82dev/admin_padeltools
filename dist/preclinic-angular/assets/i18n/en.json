@@ -20,7 +20,8 @@
             "form_email": "Email",
             "form_logo": "Logo",
             "form_select_img": "Select image",
-            "form_viable_book_user": "Your partners can book themselves"
+            "form_viable_book_user": "Only club members can book themselves",
+            "form_any_member_book": "Any WeLoveRacket user can book at the club."
         },
         "club_information_messages": {
             "error_1": "The fields Name, NIE/CIF/VAT, Phone and Email are mandatory.",
