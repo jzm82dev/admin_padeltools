@@ -20,7 +20,8 @@
             "form_email": "Email",
             "form_logo": "Logo",
             "form_select_img": "Selecciona imagen",
-            "form_viable_book_user": "Tus socios pueden hacer reserva ellos mismos"
+            "form_viable_book_user": "Sólo socios pueden hacer reserva ellos mismos",
+            "form_any_member_book": "Cualquier usuario de WeLoveRacket puede reservar en el club"
         },
         "club_information_messages": {
             "error_1": "Los campos Nombre, NIE/CIF/VAT, Teléfono y Email  son obligatorios",
