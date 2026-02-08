@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+<loc>https://weloveracket.com/</loc>
+  <lastmod>2026-02-08</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+<loc>https://weloveracket.com/view-tournaments</loc>
+  <lastmod>2026-02-02</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+<loc>https://weloveracket.com/view-leagues</loc>
+  <lastmod>2026-02-02</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>   
+<url>
+<loc>https://weloveracket.com/login</loc>
+  <lastmod>2026-02-02</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+<loc>https://weloveracket.com/register-club</loc>
+  <lastmod>2026-02-02</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+<loc>https://weloveracket.com/register-player</loc>
+  <lastmod>2026-02-02</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+<loc>https://weloveracket.com/terms-and-conditions</loc>
+  <lastmod>2026-02-02</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+<loc>https://weloveracket.com/cookie-policy</loc>
+  <lastmod>2026-02-02</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.1</priority>
+</url>
+</urlset>
