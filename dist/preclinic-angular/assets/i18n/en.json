@@ -672,6 +672,8 @@
         "sign_up": "Sign Up"
     },
     "faq": {
+            "title": "Frequently asked questions",
+            "subtitle": "Ask anything you need to know about WeLoveRacket.",
             "question_1": "What is WeLoveRacket?",
             "answer_1": "It is a web application that helps clubs digitise their operations to manage bookings, organise leagues and tournaments, and other options.",
             "question_2": "Is WeLoveRacket an app or a website?",
@@ -689,6 +691,30 @@
             "question_8": "What sets you apart from the other applications?",
             "answer_8": "We are approachable and adapt to your needs. If you want a new feature that we haven't implemented yet, just ask us for it. We are like your local shop, as opposed to a large supermarket."
     },
+    "pricing": {
+        "suscriptions": "Subscriptions",
+        "phrase": "Choose the plan that best suits your club.",
+        "monthly": "Monthly",
+        "annual": "Annual",
+        "phrase_*_1": "6 weeks completely FREE",
+        "phrase_*_2": "Includes onboarding and setup",
+        "plan_name_1": "1 or 2 courts",
+        "tag_line_1": "Because your club is small",
+        "plan_name_2": "3 to 5 courts",
+        "tag_line_2": "For medium-sized clubs",
+        "plan_name_3": "More than 5 courts",
+        "tag_line_3": "How big!",
+        "feature_1": "Complete management",
+        "feature_2": "Advanced bookings",
+        "feature_3": "Virtual wallet",
+        "feature_4": "Tournament creation",
+        "feature_5": "League creation",
+        "feature_6": "Roles and permissions",
+        "feature_7": "Email or telephone support",
+        "cta_1": "Let's get started!",
+        "cta_2": "Choose a plan",
+        "cta_3": "Let's go!"
+    },
     "home_page": {
         "home": "Home",
         "features": "Feacures",
@@ -704,6 +730,7 @@
         "clubs": "Clubs",
         "examples": "Examples",
         "players": "Players",
+        "pricing": "Pricing",
         "register_club": "Register your club for free",
         "no_club":"You are not a club but you are a player, register by clicking",
         "here": "HERE",

@@ -672,6 +672,8 @@
         "sign_up": "Regístrate"
     },
     "faq": {
+            "title": "Preguntas frecuentes",
+            "subtitle": "Pregunta todo lo que necesites saber sobre WeLoveRacket.",
             "question_1": "¿Qué es WeLoveRacket?",
             "answer_1": "Es una aplicación web que ayuda a la digitaliación de clubes para gestionar reservas, organizar ligas y torneos y otras opciones.",
             "question_2": "¿WeLoveRacket es una app o una web?",
@@ -689,6 +691,30 @@
             "question_8": "Qué os diferencia del resto",
             "answer_8": "Somos cercanos y nos adaptamos a tus necesidades. Si quieres alguna nueva funcionalizad que no tenemos implementada bastará con que nos la pidas. Somos como la tienda de tu barrio frente a grandes superficies."
     },
+    "pricing": {
+        "suscriptions": "Suscripciones",
+        "phrase": "Elige el plan que mejor encaje con tu club.",
+        "monthly": "Mensual",
+        "annual": "Anual",
+        "phrase_*_1": "6 semanas totalmente GRATIS",
+        "phrase_*_2": "Incluye onboarding y configuración",
+        "plan_name_1": "1 o 2 pistas",
+        "tag_line_1": "Porque tu club es pequeñito",
+        "plan_name_2": "De 3 a 5 pistas",
+        "tag_line_2": "Para clubes medianos",
+        "plan_name_3": "Más de 5 pistas",
+        "tag_line_3": "¡Qué grande!",
+        "feature_1": "Gestión completa",
+        "feature_2": "Reservas avanzadas",
+        "feature_3": "Monedero virtual",
+        "feature_4": "Creación de torneos",
+        "feature_5": "Creación de ligas",
+        "feature_6": "Roles y permisos",
+        "feature_7": "Soporte por email o teléfono",
+        "cta_1": "¡Empezamos!",
+        "cta_2": "Elegir Plan",
+        "cta_3": "¡Vamos!"
+    },
     "home_page": {
         "home": "Inicio",
         "features": "Funciones",
@@ -704,6 +730,7 @@
         "courts": "Pistas",
         "clubs": "Clubes",
         "players": "Jugadores",
+        "pricing": "Precios",
         "register_club": "¡Registra tu club gratis!",
         "no_club":"No eres un club pero sí un jugador, date de alta pulsando",
         "here": "AQUÍ",
