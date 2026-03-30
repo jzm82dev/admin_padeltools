@@ -15,7 +15,8 @@
             "padel_club": "Padel club",
             "urbanization": "Residential",
             "book_phone": "For booking",
-            "phone": "Telephone number"
+            "phone": "Telephone number",
+            "booking": "Bookings"
         },
         "club_information": {
             "title": "Club information",
@@ -119,6 +120,16 @@
             "placehoder_youtube":"Enter your Youtube profile link",
             "placehoder_linkedin":"Enter your LinkedIn profile link"
         },
+        "booking":{
+            "title": "Court bookings",
+            "prices": "Price per 30-minute session",
+            "price_title": "Price courts",
+            "start": "From",
+            "end": "Until",
+            "price": "Price",
+            "no_prices_court": "There is no set price for this court",
+            "online_payment_mandatory": "Online payment by card or PayPal is required"
+        },
         "status_open_inscriptions": "Open for registration",
         "status_finished": "Finished",
         "status_in_play": "In progress",
@@ -145,12 +156,22 @@
         "reservation": "Booking",
         "dashboard": "Dashboard",
         "court": "Court",
+        "paid": "Paid",
+        "paid_status": "Payment status",
         "manage_court": "Manage courts",
+        "paid_online": "Paid online",
+        "refund_amount": "Would you like a refund for the booking?",
         "pharse_1": "To be able to book you have to select at least 1.5h",
         "phrase_2": "It is not possible to book more than 2h",
         "phrase_3": "The court book has to be consecutive hours.",
         "success": "Good! Booking successful.",
         "create": "Create booking",
+        "no_prices_court": "There is no set price for the court",
+        "online_payment_mandatory": "Online payment by card or PayPal is required",
+        "booking_pay": "Payment for the booking",
+        "booking_pay_amount": "A payment of",
+        "card_data": "Card details",
+        "pay_with_paypal": "or you can pay via ",
         "name": "Name",
         "surname": "Lastname",
         "email": "Email",
@@ -171,6 +192,7 @@
         "error_4": "The booking has to be at least 1 hour long.",
         "error_5": "The email, password and time of the booking are mandatory.",
         "error_6": "The password of the owner of the booking is obligatory",
+        "error_7": "The name of the person making the booking is required",
         "notice_1": "The selected times must belong to the same court.",
         "notice_2": "It is not possible to book more than 2h.",
         "notice_3": "To be able to book you have to select at least 1 hour.",
@@ -649,6 +671,7 @@
         "lang": "Language",
         "update": "Update",
         "save": "Save",
+        "save_prices": "Save prices",
         "cancel": "Cancel",
         "accept": "Accept",
         "refuse": "Refuse",
@@ -658,6 +681,7 @@
         "data_save_correctly": "Data saved correctly.",
         "register_user_tournament": "You have successfully entered the tournament, GOOD LUCK!",
         "book_save_correctly": "Book created correctly",
+        "error_star_lower_end": "The start time cannot be later than the end time",
         "data_save_error": "An error occurred while saving the data.",
         "data_delete_error": "An error occurred while trying to delete the data. ",
         "consult_admin": "If the problem persists, consult your administrator",
@@ -686,7 +710,8 @@
         "action": "Action",
         "logout": "Logout",
         "need_an_account": "Need an account?",
-        "sign_up": "Sign Up"
+        "sign_up": "Sign Up",
+        "pay": "Pay"
     },
     "faq": {
             "title": "Frequently asked questions",
