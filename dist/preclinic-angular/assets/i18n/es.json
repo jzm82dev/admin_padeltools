@@ -124,9 +124,13 @@
             "title": "Reservas de pistas",
             "prices": "Precio de las pistas (por tramo de 30 minutos)",
             "price_title": "Precio de las pistas",
+            "price_subtitle": "El precio es por cada media hora en el horario seleccionado. Por favor, rellene toda la franja horaria aunque el club esté cerrado a esa hora.",
             "start": "Desde",
             "end": "Hasta",
-            "price": "Precio"
+            "price": "Precio",
+            "court": "Pista",
+            "no_prices_court": "No hay precio añadido para la pista",
+            "online_payment_mandatory": "Online payment by card or PayPal is required"
         },
         "status_open_inscriptions": "Abierto Inscripciones",
         "status_finished": "Finalizado",

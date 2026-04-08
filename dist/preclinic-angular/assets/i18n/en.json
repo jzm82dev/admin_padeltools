@@ -124,11 +124,11 @@
             "title": "Court bookings",
             "prices": "Price per 30-minute session",
             "price_title": "Price courts",
+            "price_subtitle": "The price is per half-hour during the selected time slot. Please fill in the entire time slot, even if the club is closed at that time.",
             "start": "From",
             "end": "Until",
             "price": "Price",
-            "no_prices_court": "There is no set price for this court",
-            "online_payment_mandatory": "Online payment by card or PayPal is required"
+            "court": "Court"
         },
         "status_open_inscriptions": "Open for registration",
         "status_finished": "Finished",
