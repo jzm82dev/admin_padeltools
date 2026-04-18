@@ -1,0 +1,48 @@
+Incrustar proyecto
+Para utilizar estas fuentes en una página web, copie este código en la etiqueta <head> de su HTML.
+Puede incrustar este proyecto en cualquier sitio web que administre.
+<link rel="stylesheet" href="https://use.typekit.net/krf5lau.css">
+
+Además se han añadido variantes para Alemán.
+
+Fuentes añadidas:
+
+New Nord Regular
+font-family: "newnord", sans-serif;
+font-weight: 400;
+font-style: normal;
+
+New Nord Italic
+font-family: "newnord", sans-serif;
+font-weight: 400;
+font-style: italic;
+
+New Nord Bold
+font-family: "newnord", sans-serif;
+font-weight: 700;
+font-style: normal;
+
+New Nord Bold Italic
+font-family: "newnord", sans-serif;
+font-weight: 700;
+font-style: italic;
+
+New Nord Wide Heavy
+font-family: "newnord-wide", sans-serif;
+font-weight: 900;
+font-style: normal;
+
+New Nord Wide Heavy Italic
+font-family: "newnord-wide", sans-serif;
+font-weight: 900;
+font-style: italic;
+
+New Nord Extended Heavy
+font-family: "newnord-extended", sans-serif;
+font-weight: 900;
+font-style: normal;
+
+New Nord Extended Heavy Italic
+font-family: "newnord-extended", sans-serif;
+font-weight: 900;
+font-style: italic;
