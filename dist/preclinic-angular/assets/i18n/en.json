@@ -16,7 +16,8 @@
             "urbanization": "Residential",
             "book_phone": "For booking",
             "phone": "Telephone number",
-            "booking": "Bookings"
+            "booking": "Bookings",
+            "coaches": "Coaches"
         },
         "club_information": {
             "title": "Club information",
@@ -447,7 +448,7 @@
         "no_couples_category": "Category currently without couples",
         "add_couple": "Add couple",
         "register": "Sign Up!",
-        "join": "Join!",
+        "join": "Register",
         "join_to": "Join to",
         "add_player": "Add player",
         "update_restults": "Update results",
@@ -464,7 +465,7 @@
             "journeys": "Matchdays",
             "first_legs": "First legs",
             "second_legs": "Second legs",
-            "name": "Name or Number",
+            "name": "Name",
             "date": "Planned date",
             "pending_results": "Pending Results",
             "status": "Status",
@@ -873,7 +874,7 @@
     "register": {
         "club_register": "Club register",
         "urbanization_register": "Residential register",
-        "player_register": "User register",
+        "player_register": "Player register",
         "name": "Name",
         "surname": "Surname",
         "mobile": "Mobile",
