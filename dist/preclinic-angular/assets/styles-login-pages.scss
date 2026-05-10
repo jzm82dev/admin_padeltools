@@ -1,0 +1,278 @@
+
+ $color_orange: #ff5a36;
+ $color_blue_ocean: #293144;
+ $color_blue_light: #a2e9ed;
+ $color_light_white: #fff5ee;
+
+
+body{
+ //   background-color: $color_blue_ocean;
+}
+
+/* LEFT SIDE */
+.left-login {
+    cursor: pointer;
+    width: 50%;
+    background: url('/assets/images/login-img.jpg');
+     background-size: cover;
+    background-position: center;
+}
+
+.overlay-login {
+    position: absolute;
+    bottom: 60px;
+    left: 60px;
+}
+
+
+/* RIGHT SIDE */
+.right-login {
+    width: 50%;
+    background: $color_blue_ocean;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-box {
+    width: 350px;
+}
+
+.login-box h2 {
+    color: $color_light_white;
+    margin-bottom: 30px;
+}
+
+.login-box h2 span {
+    font-size: 12px;
+    margin-left: 10px;
+    opacity: 0.6;
+}
+
+
+
+.form-control-login {
+  background-color: $color_blue_ocean;
+  color: $color_light_white;
+  font-size: 20px;
+}
+
+.show_error-login {
+    color: $color_orange;
+    background-color: $color_blue_ocean;
+}
+
+.input-wrapper-login {
+  position: relative;
+  width: 350px;
+}
+
+.input-wrapper-login input {
+  width: 100%;
+  padding-right: 40px; /* espacio para el icono */
+}
+
+.input-wrapper-login .eye {
+  position: absolute;
+  right: 15px;
+  top: 42%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  user-select: none;
+}
+
+
+.color-eye {
+    color: $color_light_white;
+}
+
+
+.imput-login {
+    width: 100%;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    border: 1px solid #aaa;
+    background: transparent;
+    //background-color: $color_blue_ocean !important;
+    color: white;
+    outline: none;
+}
+
+.register-ok{
+    color: $color_light_white;
+}
+
+.register-name{
+    color: $color_orange;
+}
+
+.imput-login::placeholder {
+    color: #aaa; /* gris más claro */
+    opacity: 1; /* importante en algunos navegadores */
+}
+
+/* ACTIONS */
+.actions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+button {
+    background: $color_blue_light;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.forgot {
+    color: $color_light_white;
+    font-size: 12px;
+}
+
+.forgot strong {
+    color: $color_light_white;
+    cursor: pointer;
+}
+
+/* IMAGEN CENTRADA */
+.center-image-login {   
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+
+    width: 350px; /* ajusta tamaño */
+    z-index: 10; /* por encima de todo */
+
+    pointer-events: none; /* opcional: no bloquea clicks */
+}
+
+
+.account-subtitle-login {
+    font-size: 14px;
+    margin-bottom: 0;
+    text-align: left;
+    font-weight: 500;
+    color: $color_light_white;
+}
+
+.link_blue {
+    color: $color_blue_light;
+}
+
+
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 1000px $color_blue_ocean inset !important; /* fondo */
+  -webkit-text-fill-color: $color_light_white !important; /* texto */
+  caret-color: $color_light_white; /* cursor */
+  border: 1px solid $color_light_white;
+}
+
+input {
+  transition: background-color 9999s ease-in-out 0s;
+}
+
+.hide-mobile { 
+    display: inline; 
+} 
+
+.hide-desktop { 
+    display: none; 
+    cursor: pointer;
+} 
+
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.imput-login {
+    padding: 15px 18px;
+    margin-bottom: 12px;
+}
+
+.form-control-login {
+    font-size: 24px;
+}
+
+.login-box{
+    margin-top: 65px;
+}
+
+.acept{
+    font-size: 16px;
+}
+
+/* Desktop grande */
+@media (max-width: 1400px) { 
+
+}
+
+/* Laptop */
+ @media (max-width: 1200px) { 
+   
+ }
+
+/* Tablet horizontal */
+// @media (max-width: 992px) { }
+
+
+
+@media (max-width: 768px) ,(max-width: 1200px), (max-width: 992px) {
+
+    .login-box h2{
+        margin-bottom: 17px;
+    }
+
+    .form-group {
+        margin-bottom: 10px;
+    }
+
+    .imput-login {
+        padding: 10px 18px;
+        margin-bottom: 8px;
+    }
+
+    .form-control-login {
+        font-size: 14px;
+    }
+
+    .actions{
+        padding: 9px 15px;
+    } 
+    .right-login {
+        width: 100%;
+    }
+
+    .left-login {
+        width: 0%;
+    }
+
+    .hide-mobile { 
+      display: none; 
+    } 
+
+    .hide-desktop { 
+      display: inline; 
+    } 
+
+    .center-image-login {
+        top: 7%;
+        width: 229px;
+    }
+
+}
+
+@media (max-width: 576px) { }
+
+
+
+

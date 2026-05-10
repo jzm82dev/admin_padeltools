@@ -16,7 +16,8 @@
             "urbanization": "Urbanización",
             "book_phone": "Para reservas",
             "phone": "Teléfono",
-            "booking": "Reservas"
+            "booking": "Reservas",
+            "coaches": "Monitores"
         },
         "club_information": {
             "title": "Información del club",
@@ -449,7 +450,7 @@
         "no_couples_category": "Categoría actualmente sin parejas",
         "add_couple": "Añadir pareja",
         "register": "¡Regístrate!",
-        "join": "¡Apúntate!",
+        "join": "Inscribirse",
         "join_to": "Únete a",
         "add_player": "Añadir jugador",
         "sure_delete_couple": "Estás seguro de eliminar la pareja",
@@ -466,7 +467,7 @@
             "journeys": "Jornadas",
             "first_legs": "Ida",
             "second_legs": "Vuelta",
-            "name": "Nombre o Número",
+            "name": "Jornada",
             "date": "Fecha prevista",
             "pending_results": "Resultados pendientes",
             "status": "Estado",
@@ -878,7 +879,7 @@
     "register": {
         "club_register": "Registro de club",
         "urbanization_register": "Registro de urbanización",
-        "player_register": "Registro de usuario",
+        "player_register": "Registro de jugador",
         "name": "Nombre",
         "surname": "Apellidos",
         "mobile": "Móvil",
@@ -901,7 +902,7 @@
         "email_verified": "tu email ha sido verificado :)",
         "enter_password": "Introduce tu contraseña para entrar en la aplicación",
         "agree_to_the": "Acepto ",
-        "terms_and_conditions": "Términos y condiciones",
+        "terms_and_conditions": "términos y condiciones",
         "accept_terms_and_conditions": "Debes aceptar Términos y Condiciones",
         "welcome_message_1": "Bienvenido a WeLoveRacket. Te hemos mandado un email a ",
         "welcome_message_2": "Si no lo has recibido revisa tu spam o quizás está mal el email que has introducido. Para cualquier incidencia ponte en contacto con nosotros.",
