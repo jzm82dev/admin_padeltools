@@ -6,7 +6,7 @@
 
 
 body{
- //   background-color: $color_blue_ocean;
+  //  background-color: $color_blue_ocean;
 }
 
 /* LEFT SIDE */
@@ -32,6 +32,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+   // height: max-content;
 }
 
 .login-box {
@@ -195,12 +196,12 @@ input {
 }
 
 .imput-login {
-    padding: 15px 18px;
-    margin-bottom: 12px;
+    padding: 10px 18px;
+    margin-bottom: 10px;
 }
 
 .form-control-login {
-    font-size: 24px;
+    font-size: 16px;
 }
 
 .login-box{
