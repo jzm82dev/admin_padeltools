@@ -435,17 +435,23 @@ hr{
 
 .contact p {
   margin: 0 0 18px;
-  font-size: clamp(1.4rem, 2.8vw, 2.2rem);
+  font-size: clamp(1.4rem, 1.5vw, 1.5rem);
   font-weight: 900;
   letter-spacing: -0.03em;
   color: var(--navy);
   color: $color_blue_ocean;
 }
 
+.contact .error-sent{
+  color: $color_orange;
+}
+
 .contact__form {
   display: grid;
   gap: 14px;
 }
+
+
 
 .field,
 .textarea {
@@ -985,8 +991,6 @@ a:hover{
     max-height: 90%;
     border-radius: 12px;
   }
-
-
 
 
 
