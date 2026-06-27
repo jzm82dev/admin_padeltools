@@ -26,6 +26,30 @@ html {
 }
 
 
+.gif{
+    position:relative;
+    min-height:100vh;
+    overflow:hidden;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:#fff;
+}
+
+.gif video{
+    position:absolute;
+    inset:0;
+    width:100%;
+    height:100%;
+    object-fit:cover;
+}
+
+.overlay{
+    position:absolute;
+    inset:0;
+   // background:rgba(0,0,0,.45);
+}
+
 
 hr{
   border-top: 2px solid $color_blue_ocean;
@@ -77,6 +101,7 @@ hr{
   text-align: center;
   border-bottom: 1px solid $color_orange;
   vertical-align: middle;;
+  --bs-breadcrumb-margin-bottom: 0rem;
 }
 
 .inline {
