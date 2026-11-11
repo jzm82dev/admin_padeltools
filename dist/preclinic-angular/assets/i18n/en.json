@@ -902,5 +902,25 @@
         "welcome_message_1": "Welcome to WeLoveRacket. We have sent you an email to ",
         "welcome_message_2": "If you haven't received it, please check your spam or maybe the email you entered is wrong and contact us.",
         "welcome_message_3": "to verify your account"
+    },
+    "delete_account": {
+        "title": "Delete your account",
+        "intro": "Your name, email, mobile, photo and the rest of your personal data will be deleted. First you need to cancel your pending bookings, or wait until they are over. Your league and tournament matches are kept under the name \"Jugador eliminado\", because the results also belong to other players.",
+        "not_undo": "This cannot be undone.",
+        "more_info": "More information",
+        "password": "Enter your password to confirm",
+        "button": "Delete my account",
+        "confirm_title": "Are you sure you want to delete your account?",
+        "confirm_text": "Your data will be deleted and you will not be able to recover it.",
+        "confirm_button": "Yes, delete it",
+        "cancel_button": "Cancel",
+        "done_title": "Account deleted",
+        "done_text": "Your account has been deleted. Thank you for playing with us.",
+        "error_password_required": "Enter your password.",
+        "error_invalid_credentials": "The password is not correct.",
+        "error_managed_by_club": "This account is also used to manage a club, so it cannot be deleted here. Write to us at support@weloveracket.com and we will help you.",
+        "error_too_many": "Too many attempts. Wait a minute and try again.",
+        "error_session": "Your session has expired. Log in again to delete your account.",
+        "error_generic": "The account could not be deleted. Try again in a moment."
     }
 }
