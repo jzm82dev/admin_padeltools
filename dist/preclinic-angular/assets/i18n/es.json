@@ -907,5 +907,25 @@
         "welcome_message_1": "Bienvenido a WeLoveRacket. Te hemos mandado un email a ",
         "welcome_message_2": "Si no lo has recibido revisa tu spam o quizás está mal el email que has introducido. Para cualquier incidencia ponte en contacto con nosotros.",
         "welcome_message_3": "para verificar tu cuenta"
+    },
+    "delete_account": {
+        "title": "Borrar tu cuenta",
+        "intro": "Se borrarán tu nombre, email, móvil, foto y el resto de tus datos personales. Antes tienes que cancelar tus reservas pendientes, o esperar a que terminen. Tus partidos de ligas y torneos se conservan con el nombre \"Jugador eliminado\", porque los resultados también son de otros jugadores.",
+        "not_undo": "No se puede deshacer.",
+        "more_info": "Más información",
+        "password": "Escribe tu contraseña para confirmar",
+        "button": "Borrar mi cuenta",
+        "confirm_title": "¿Seguro que quieres borrar tu cuenta?",
+        "confirm_text": "Se borrarán tus datos y no podrás recuperarla.",
+        "confirm_button": "Sí, borrarla",
+        "cancel_button": "Cancelar",
+        "done_title": "Cuenta borrada",
+        "done_text": "Tu cuenta se ha borrado. Gracias por haber jugado con nosotros.",
+        "error_password_required": "Escribe tu contraseña.",
+        "error_invalid_credentials": "La contraseña no es correcta.",
+        "error_managed_by_club": "Esta cuenta también se usa para gestionar un club, así que no se puede borrar desde aquí. Escríbenos a support@weloveracket.com y te ayudamos.",
+        "error_too_many": "Demasiados intentos. Espera un minuto y vuelve a probar.",
+        "error_session": "Tu sesión ha caducado. Vuelve a entrar para borrar la cuenta.",
+        "error_generic": "No se ha podido borrar la cuenta. Inténtalo de nuevo en un momento."
     }
 }

@@ -12,5 +12,25 @@
     "Bio": "Voer bio in",
     "TermsConditions": "Ik ga akkoord met de voorwaarden.",
     "Submit": "voorleggen",
-    "Lang": "Taal"
+    "Lang": "Taal",
+    "delete_account": {
+        "title": "Je account verwijderen",
+        "intro": "Je naam, e-mail, mobiel nummer, foto en de rest van je persoonsgegevens worden verwijderd. Eerst moet je je openstaande reserveringen annuleren, of wachten tot ze voorbij zijn. Je competitie- en toernooiwedstrijden blijven bewaard onder de naam \"Jugador eliminado\", omdat de uitslagen ook van andere spelers zijn.",
+        "not_undo": "Dit kan niet ongedaan worden gemaakt.",
+        "more_info": "Meer informatie",
+        "password": "Voer je wachtwoord in om te bevestigen",
+        "button": "Mijn account verwijderen",
+        "confirm_title": "Weet je zeker dat je je account wilt verwijderen?",
+        "confirm_text": "Je gegevens worden verwijderd en je kunt het account niet terughalen.",
+        "confirm_button": "Ja, verwijderen",
+        "cancel_button": "Annuleren",
+        "done_title": "Account verwijderd",
+        "done_text": "Je account is verwijderd. Bedankt dat je met ons hebt gespeeld.",
+        "error_password_required": "Voer je wachtwoord in.",
+        "error_invalid_credentials": "Het wachtwoord is niet juist.",
+        "error_managed_by_club": "Dit account wordt ook gebruikt om een club te beheren en kan hier daarom niet worden verwijderd. Schrijf ons op support@weloveracket.com, dan helpen we je.",
+        "error_too_many": "Te veel pogingen. Wacht een minuut en probeer het opnieuw.",
+        "error_session": "Je sessie is verlopen. Log opnieuw in om je account te verwijderen.",
+        "error_generic": "Het account kon niet worden verwijderd. Probeer het zo opnieuw."
+    }
 }
