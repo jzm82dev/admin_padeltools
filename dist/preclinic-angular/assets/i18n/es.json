@@ -900,7 +900,7 @@
         "user_password_no_correct": "El usuario o contraseña es incorrecto",
         "password_no_correct": "La contraseña es incorrecta",
         "email_verified": "tu email ha sido verificado :)",
-        "enter_password": "Introduce tu contraseña para entrar en la aplicación",
+        "enter_password": "Introduce tu contraseña para entrar en la aplicación o entra desde la App si la tienes instalada",
         "agree_to_the": "Acepto ",
         "terms_and_conditions": "términos y condiciones",
         "accept_terms_and_conditions": "Debes aceptar Términos y Condiciones",
