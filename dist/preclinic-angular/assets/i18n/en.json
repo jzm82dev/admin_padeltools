@@ -922,5 +922,29 @@
         "error_too_many": "Too many attempts. Wait a minute and try again.",
         "error_session": "Your session has expired. Log in again to delete your account.",
         "error_generic": "The account could not be deleted. Try again in a moment."
+    },
+    "login": {
+        "start_session": "Start session",
+        "user_area": "USER AREA",
+        "login": "Login",
+        "email": "Email",
+        "password": "Password",
+        "remember_me": "Remember me",
+        "forgot_password": "Forgot your password?",
+        "sign_up": "Sign up",
+        "login_error": "The user or password is incorrect",
+        "does_not_account": "Don't have an account? Sign up as ",
+        "club": "club",
+        "player":"player"
+    },
+      "remember_password": {
+        "title": "Forgot your password?",
+        "intro": "Enter your email address and we will send you a link to reset your password.",
+        "email": "Email",
+        "send_email": "Send Email",
+        "back_login": "Back to Login",
+        "email_sent": "We have sent you an email with the link to reset your password. Please check your inbox and also your spam folder.",
+        "email_not_found": "We couldn't find an account with that email address.",
+        "error_generic": "There was an error sending the email. Please try again in a moment."
     }
 }

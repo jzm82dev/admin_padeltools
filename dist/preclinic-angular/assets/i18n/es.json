@@ -927,5 +927,29 @@
         "error_too_many": "Demasiados intentos. Espera un minuto y vuelve a probar.",
         "error_session": "Tu sesión ha caducado. Vuelve a entrar para borrar la cuenta.",
         "error_generic": "No se ha podido borrar la cuenta. Inténtalo de nuevo en un momento."
+    },
+    "login": {
+        "start_session": "Iniciar sesión",
+        "user_area": "ÁREA DE USUARIOS",
+        "login": "Entrar",
+        "email": "Email",
+        "password": "Contraseña",
+        "remember_me": "Recordar",
+        "forgot_password": "¿Has olvidado tu contraseña?",
+        "sign_up": "Regístrate",
+        "login_error": "El usuario o contraseña es incorrecto",
+        "does_not_account": "¿No tienes una cuenta? Regístrate como ",
+        "club": "club",
+        "player":"Jugador"
+    },
+    "remember_password": {
+        "title": "Recuperar contraseña",
+        "intro": "Introduce tu email y te enviaremos un enlace para que puedas cambiar tu contraseña.",
+        "email": "Email",
+        "send_email": "Enviar email",
+        "back_login": "Volver a entrar",
+        "email_sent": "Te hemos enviado un email con el enlace para cambiar tu contraseña. Revisa tu bandeja de entrada y también la carpeta de spam.",
+        "email_not_found": "No hemos encontrado ninguna cuenta con ese email.",
+        "error_generic": "Ha habido un error al enviar el email. Inténtalo de nuevo en unos instantes."
     }
 }

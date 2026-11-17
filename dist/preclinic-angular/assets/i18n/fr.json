@@ -924,5 +924,29 @@
         "error_too_many": "Trop de tentatives. Attendez une minute et réessayez.",
         "error_session": "Votre session a expiré. Reconnectez-vous pour supprimer le compte.",
         "error_generic": "Le compte n'a pas pu être supprimé. Réessayez dans un instant."
+    },
+    "login": {
+        "start_session": "Démarrer la session",
+        "user_area": "ESPACE UTILISATEUR",
+        "login": "Connexion",
+        "email": "E-mail",
+        "password": "Mot de passe",
+        "remember_me": "Se souvenir de moi",
+        "forgot_password": "Mot de passe oublié?",
+        "sign_up": "S'inscrire",
+        "login_error": "L'utilisateur ou le mot de passe est incorrect",
+        "does_not_account": "Vous n'avez pas de compte? Inscrivez-vous en tant que ",
+        "club": "club",
+        "player":"joueur"
+    },
+      "remember_password": {
+        "title": "Mot de passe oublié",
+        "intro": "Entrez votre adresse e-mail et nous vous enverrons un lien pour réinitialiser votre mot de passe.",
+        "email": "-mail",
+        "send_email": "Envoyer l'e-mail",
+        "back_login": "Retour à la connexion",
+        "email_sent": "Nous vous avons envoyé un e-mail avec le lien pour réinitialiser votre mot de passe. Vérifiez votre dossier de spam.",
+        "email_not_found": "Nous n'avons pas trouvé de compte avec cette adresse e-mail.",
+        "error_generic": "Une erreur s'est produite lors de l'envoi de l'e-mail. Veuillez réessayer dans quelques instants."
     }
 }
