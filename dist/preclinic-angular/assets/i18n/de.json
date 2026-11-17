@@ -924,5 +924,29 @@
         "error_too_many": "Zu viele Versuche. Warte eine Minute und versuche es noch einmal.",
         "error_session": "Deine Sitzung ist abgelaufen. Melde dich erneut an, um das Konto zu löschen.",
         "error_generic": "Das Konto konnte nicht gelöscht werden. Versuche es gleich noch einmal."
+    },
+     "login": {
+        "start_session": "Melde dich an, um fortzufahren",
+        "user_area": "BENUTZERBEREICH",
+        "login": "Anmelden",
+        "email": "E-mail",
+        "password": "Passwort",
+        "remember_me": "Angemeldet bleiben",
+        "forgot_password": "Passwort vergessen?",
+        "sign_up": "Registrieren",
+        "login_error": "Der Benutzer oder das Passwort ist falsch",
+        "does_not_account": "Sie haben noch kein Konto? Melden Sie sich an als ",
+        "club": "club",
+        "player":"Spieler"
+    },
+      "remember_password": {
+        "title": "Passwort vergessen",
+        "intro": "Gib deine E-Mail-Adresse ein und wir senden dir einen Link zum Zurücksetzen deines Passworts.",
+        "email": "E-Mail",
+        "send_email": "E-Mail senden",
+        "back_login": "Zurück zum Login",
+        "email_sent": "Wir haben dir eine E-Mail mit dem Link zum Zurücksetzen deines Passworts gesendet. Bitte überprüfe auch deinen Spam-Ordner.",
+        "email_not_found": "Wir haben keine Konto mit dieser E-Mail-Adresse gefunden.",
+        "error_generic": "Es ist ein Fehler beim Senden der E-Mail aufgetreten. Versuche es später erneut."
     }
 }
