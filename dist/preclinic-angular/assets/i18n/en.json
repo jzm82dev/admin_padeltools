@@ -188,9 +188,9 @@
     
     "reservations":{
         "slot_busy": "Booked",
-        "slot_info": "Some courts are booked by time slot: just tap the slot you want.",
+        "slot_info": "Some courts are booked by time slot: just tap the slot you want. Outside the slots, booking works in half-hour steps, as usual.",
         "slot_choose": "Choose a free time slot.",
-        "slot_panel_info": "On courts with time slots, each free slot is shown as a block: click it to book the whole slot. You can also book hours outside the slots, although players cannot.",
+        "slot_panel_info": "On courts with time slots, each free slot is shown as a block: click it to book the whole slot. Hours outside the slots are booked in half-hour steps, as usual.",
         "reservation": "Booking",
         "dashboard": "Dashboard",
         "court": "Court",

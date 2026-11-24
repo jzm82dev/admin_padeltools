@@ -189,9 +189,9 @@
     },
     "reservations": {
         "slot_busy": "Occupé",
-        "slot_info": "Certains terrains se réservent par créneaux : touchez simplement le créneau voulu.",
+        "slot_info": "Certains terrains se réservent par créneaux : touchez simplement le créneau voulu. En dehors des créneaux, on réserve par demi-heure, comme d’habitude.",
         "slot_choose": "Choisissez un créneau libre.",
-        "slot_panel_info": "Sur les terrains à créneaux, chaque créneau libre apparaît comme un bloc : cliquez dessus pour le réserver en entier. Vous pouvez aussi réserver les heures hors créneau, même si les joueurs ne le peuvent pas.",
+        "slot_panel_info": "Sur les terrains à créneaux, chaque créneau libre apparaît comme un bloc : cliquez dessus pour le réserver en entier. Les heures hors créneau se réservent par demi-heure, comme d’habitude.",
         "reservation": "Réservation",
         "dashboard": "Tableau de bord",
         "court": "Terrain",

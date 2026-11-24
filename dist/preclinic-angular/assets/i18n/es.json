@@ -190,9 +190,9 @@
 
     "reservations":{
         "slot_busy": "Ocupada",
-        "slot_info": "Algunas pistas se reservan por franjas: pulsa la franja que quieras y listo.",
+        "slot_info": "Algunas pistas se reservan por franjas: pulsa la franja que quieras y listo. Fuera de las franjas se reserva de media en media hora, como siempre.",
         "slot_choose": "Elige una franja libre.",
-        "slot_panel_info": "En las pistas por franjas, cada franja libre se ve como un bloque: púlsalo para reservarla entera. Las horas fuera de franja también las puedes reservar tú, aunque los jugadores no.",
+        "slot_panel_info": "En las pistas por franjas, cada franja libre se ve como un bloque: púlsalo para reservarla entera. Las horas fuera de franja se reservan de media en media hora, como siempre.",
         "reservation": "Reserva",
         "dashboard": "Dashboard",
         "court": "Pista",
