@@ -189,9 +189,9 @@
     },
     "reservations": {
         "slot_busy": "Belegt",
-        "slot_info": "Manche Plätze werden nach Zeitfenstern gebucht: Tippe einfach auf das gewünschte Zeitfenster.",
+        "slot_info": "Manche Plätze werden nach Zeitfenstern gebucht: Tippe einfach auf das gewünschte Zeitfenster. Außerhalb der Zeitfenster wird wie gewohnt in halben Stunden gebucht.",
         "slot_choose": "Wähle ein freies Zeitfenster.",
-        "slot_panel_info": "Bei Plätzen mit Zeitfenstern erscheint jedes freie Zeitfenster als Block: Klicke darauf, um es ganz zu buchen. Zeiten außerhalb der Zeitfenster kannst du ebenfalls buchen, Spieler nicht.",
+        "slot_panel_info": "Bei Plätzen mit Zeitfenstern erscheint jedes freie Zeitfenster als Block: Klicke darauf, um es ganz zu buchen. Zeiten außerhalb der Zeitfenster werden wie gewohnt in halben Stunden gebucht.",
         "reservation": "Buchung",
         "dashboard": "Dashboard",
         "court": "Platz",
